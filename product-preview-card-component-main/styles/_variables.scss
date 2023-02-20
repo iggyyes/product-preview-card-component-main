@@ -1,0 +1,24 @@
+:root {
+    // primary colours
+    --primary-clr-light-green: hsl(158, 36%, 37%);
+    --primary-clr-dark-green: hsl(156, 42%, 18%);
+    --bg-clr: hsl(30, 38%, 92%);
+    // neutral colours
+    --text-clr-dark: hsl(212, 21%, 14%);
+    --text-clr-light: hsl(228, 12%, 48%);
+    --white: hsl(0, 0%, 100%);
+    //font families
+    --ff-body:'Montserrat', sans-serif;
+    --ff-heading:'Fraunces', serif;
+    // font sizes 10  14 26
+    --fs-sml:0.625rem; 
+    --fs-reg:0.875rem;
+    --fs-lrg:1.625rem;
+    
+    // font weights
+    --fw-reg:500;
+    --fw-bold:700;
+
+
+
+}
